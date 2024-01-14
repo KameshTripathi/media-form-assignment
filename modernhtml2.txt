@@ -1,0 +1,9 @@
+HTML entities are a way to represent special characters in HTML. They are used to display characters that are not available on the keyboard, or to display characters that have special meaning in HTML.
+
+Here are 5 commonly used HTML entities:
+
+&amp; - This entity represents the ampersand (&) character.
+&lt; - This entity represents the less-than (<) character.
+&gt; - This entity represents the greater-than (>) character.
+&quot; - This entity represents the double quotation mark (") character.
+&apos; - This entity represents the single quotation mark (') character.

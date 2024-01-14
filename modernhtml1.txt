@@ -1,0 +1,17 @@
+New semantic elements: HTML5 introduces a number of new semantic elements, such as header, footer, article, and section. These elements provide more context and meaning to web page content, making it easier for search engines to index and categorize pages. This also helps with accessibility and enables a better understanding of web content.
+
+Improved forms: HTML5 introduces a number of improvements to HTML web forms, such as new attributes for the input tag. These improvements make it easier to create more complex and user-friendly forms.
+
+Local storage: HTML5 introduces the localStorage object, which allows web pages to store data locally on the user's computer. This data can be used to store things like user preferences, game scores, or shopping cart contents.
+
+WebSockets: HTML5 introduces WebSockets, which are a new way for web pages to communicate with a server in real time. This can be used for things like chat applications, live updates, and multiplayer games.
+
+Video and audio: HTML5 introduces the video and audio elements, which allow web pages to play back video and audio files without the need for third-party plugins.
+
+Canvas: HTML5 introduces the canvas element, which allows web pages to draw graphics or images on the fly using JavaScript.
+
+MathML: HTML5 introduces MathML, which is a markup language for representing mathematical expressions.
+
+SVG: HTML5 introduces SVG, which is a markup language for representing vector graphics.
+
+Web Workers: HTML5 introduces Web Workers, which are a way to run JavaScript code in the background, without blocking the user interface.

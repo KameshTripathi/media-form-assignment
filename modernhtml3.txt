@@ -1,0 +1,19 @@
+Web accessibility is the practice of designing websites so that they can be used by people with disabilities. This includes people with visual impairments, hearing impairments, mobility impairments, and cognitive impairments.
+
+There are a number of assistive devices that can help people with disabilities access the web. Some of the most common assistive devices include:
+
+Screen readers: Screen readers are software programs that read text aloud. This allows people who are blind or visually impaired to read web pages.
+Braille displays: Braille displays are devices that display text in Braille. This allows people who are blind or visually impaired to read web pages in Braille.
+Speech-to-text software: Speech-to-text software converts speech into text. This allows people who are deaf or hard of hearing to read web pages.
+Joysticks: Joysticks are devices that allow people with limited mobility to control a computer cursor. This allows people with mobility impairments to navigate web pages.
+Keyboards: There are a number of keyboards that are designed for people with disabilities. Some keyboards have large keys, while others have special features that make it easier for people with limited dexterity to type.
+These are just a few of the many assistive devices that can help people with disabilities access the web. If you know someone who has a disability, you can encourage them to use an assistive device to help them access the web.
+
+Here are some additional tips for making your website more accessible:
+
+Use clear and concise language.
+Avoid using jargon and technical terms.
+Use high-contrast colors.
+Use large fonts.
+Provide alternative text for images.
+Make sure your website is compatible with screen readers.

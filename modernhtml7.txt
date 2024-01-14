@@ -1,0 +1,13 @@
+Semantic tags are HTML elements that provide meaning to the content of a web page. They are used to describe the purpose of an element, such as a heading, paragraph, or image. Semantic tags can be used to improve the accessibility, SEO, and readability of a web page.
+
+Accessibility
+
+Semantic tags can help to make a web page more accessible to people with disabilities. Screen readers, which are used by people who are blind or visually impaired, can interpret semantic tags to understand the structure of a web page. This can help people with disabilities to navigate a web page and access its content more easily.
+
+SEO
+
+Search engines, such as Google, use semantic tags to understand the content of a web page. This information can be used to improve the ranking of a web page in search results. For example, if a web page uses the <article> tag to mark up a blog post, search engines will be more likely to rank that page higher in search results for queries related to blogging.
+
+Readability
+
+Semantic tags can help to make a web page more readable for all users. By using semantic tags to structure a web page, you can make it easier for users to scan the page and find the information they are looking for. This can improve the overall user experience of your website.

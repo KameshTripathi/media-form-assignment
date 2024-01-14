@@ -1,0 +1,5 @@
+Use semantic HTML. Semantic HTML is a way of writing HTML that makes it easier for screen readers and other assistive technologies to understand the structure of a web page. This can help people with disabilities to navigate and use your website more easily.
+
+Use alt text for images. Alt text is a short description of an image that is displayed when the image cannot be seen. This is important for people with visual impairments who use screen readers to access the web.
+
+Use clear and concise language. Avoid using jargon or technical terms that may not be familiar to everyone. Use clear and concise language that is easy to understand for all users.

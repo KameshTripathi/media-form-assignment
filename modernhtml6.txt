@@ -1,0 +1,9 @@
+<article>: An article is a self-contained piece of content that can stand on its own. For example, an article could be a blog post, a news article, or a product review.
+
+<aside>: An aside is a piece of content that is related to the main content of the page, but is not essential to it. For example, an aside could be a sidebar with related links, or a comment section.
+
+<details>: A details element is used to create a collapsible section of content. The details element can be used to hide content that is not essential to the main content of the page, or to provide additional information that users may want to read.
+
+<figure>: A figure element is used to group related content, such as an image, a table, or a diagram. The figure element can also be used to add a caption to the content.
+
+<footer>: A footer is a section of content that is displayed at the bottom of a page. The footer can be used to display copyright information, contact information, or social media links.
